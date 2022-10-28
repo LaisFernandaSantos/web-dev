@@ -45,7 +45,7 @@ export const Skills = () => {
                                 <img src={meter2} alt="Image" />
                                 <h5>Argumentação e Conecção</h5>
                             </div>
-                            <div className="item">
+                             <div className="item">
                                 <img src={meter3} alt="Image" />
                                 <h5>Eixo Social</h5>
                             </div>
