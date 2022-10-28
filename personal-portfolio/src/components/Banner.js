@@ -58,7 +58,7 @@ export const Banner = () => {
                 <span className="tagline">Portfólio de Estudos</span>
                 <h1>{`Bem Vindo`} <span className="txt-rotate" dataperiod="1000" data-rotate='[ "Estudante" ]'><span className="wrap">{text}</span></span></h1>
                   <p>"Educação não transforma o mundo. Educação muda pessoas. Pessoas transformam o mundo" - Paulo Freire</p>
-                  <button onClick={() => console.log('connect')}>Converse Conosco<ArrowRightCircle size={25} /></button>
+                  <button onClick={() => console.log('connect')}>Fale Conosco<ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
           </Col>
